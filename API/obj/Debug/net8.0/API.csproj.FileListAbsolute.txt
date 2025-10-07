@@ -254,3 +254,4 @@ C:\Users\EL-QASEMY MOHAMED\Desktop\Mon_Espace\Learning\DotnetApp\DatingApp\API\o
 C:\Users\EL-QASEMY MOHAMED\Desktop\Mon_Espace\Learning\DotnetApp\DatingApp\API\obj\Debug\net8.0\API.pdb
 C:\Users\EL-QASEMY MOHAMED\Desktop\Mon_Espace\Learning\DotnetApp\DatingApp\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\EL-QASEMY MOHAMED\Desktop\Mon_Espace\Learning\DotnetApp\DatingApp\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\EL-QASEMY MOHAMED\Desktop\Mon_Espace\Learning\DotnetApp\DatingApp\API\obj\Debug\net8.0\API.sourcelink.json
